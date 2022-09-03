@@ -1,2 +1,3 @@
 # migrosApp
-<img width="520" alt="migrosAppSS" src="https://user-images.githubusercontent.com/61031852/188285187-480bbd79-a9a8-47f5-bbe9-bfaea2c51425.png">
+<img width="520" alt="Screen Shot 2022-09-03 at 22 48 13" src="https://user-images.githubusercontent.com/61031852/188285817-58f65385-0e70-4088-a9f9-f96e4afdcae0.png">
+
